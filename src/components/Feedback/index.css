@@ -1,0 +1,17 @@
+/* Write your CSS code here. */
+.feedback-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+.image {
+  height: 50px;
+  width: 50px;
+}
+.name {
+  font-size: 15px;
+  color: #1e293b;
+  font-family: 'Roboto';
+}
